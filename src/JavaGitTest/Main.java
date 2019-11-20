@@ -6,5 +6,6 @@ public class Main {
         Epix henke = new Epix("Henke", 35);
 
         System.out.println(henke);
+        System.out.println("strange");
     }
 }
