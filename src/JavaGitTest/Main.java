@@ -8,5 +8,7 @@ public class Main {
         Test test = new Test(14);
         System.out.println(henke);
         System.out.println(test);
+        FompesKlass fp = new FompesKlass("Blablublö");
+        System.out.println(fp);
     }
 }
