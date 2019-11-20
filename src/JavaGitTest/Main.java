@@ -9,6 +9,6 @@ public class Main {
         System.out.println(henke);
         System.out.println(test);
         FompesKlass fp = new FompesKlass("Blablublö");
-        System.out.println(fp);
+        System.out.println(fp + "\n " + test + "Strange");
     }
 }
