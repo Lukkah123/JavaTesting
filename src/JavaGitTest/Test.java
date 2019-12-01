@@ -8,7 +8,7 @@ public class Test {
     }
 
     public int getNumber() {
-        System.out.println("bajs");
+        System.out.println("Simons ändring");
         return number;
     }
 
