@@ -8,7 +8,7 @@ public class Test {
     }
 
     public int getNumber() {
-        System.out.println("Simons ändring");
+        System.out.println("Simons ändring Size does not matter");
         return number;
     }
 
