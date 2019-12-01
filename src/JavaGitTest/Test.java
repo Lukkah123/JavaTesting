@@ -8,11 +8,13 @@ public class Test {
     }
 
     public int getNumber() {
+        System.out.println("bajs");
         return number;
     }
 
     @Override
     public String toString() {
+
         return "the number is: " + getNumber();
     }
 }
